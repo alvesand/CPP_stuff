@@ -1,2 +1,2 @@
 # CPP_stuff
-## just a bunch of files that I've been generating while studying C++
+## A suite of simple routines that I've been writting while studying C++ (nothing fancy)
